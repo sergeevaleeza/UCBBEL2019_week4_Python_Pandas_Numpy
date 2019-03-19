@@ -1,0 +1,7 @@
+Three observable trends based on the data:
+Majority of the players in the game are males (84%), while females are only at 14%.
+
+Majority (45%) of the people who play this game, are in 20-24 years range, 
+which also brought the most amount of money in($1,114.06) with the highest number of purchases.
+
+People have tendency to buy more expansive items, which in term, brings the highest profit too.
